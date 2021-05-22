@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "294896218632",
+    "project_id": "fir-loginregister-ea693",
+    "storage_bucket": "fir-loginregister-ea693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294896218632:android:3072ac42c29df98220d7bd",
+        "android_client_info": {
+          "package_name": "com.sachin.covid_19trackerandvaccinechecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294896218632-vsutfdv0ar5epqdu9t63q8bfkhmmqsnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYOEsYslB67gtDwWqO3NHOUeMKtuSaeR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294896218632-vsutfdv0ar5epqdu9t63q8bfkhmmqsnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294896218632:android:69e3ad9f851063c520d7bd",
+        "android_client_info": {
+          "package_name": "com.sachin.firebaseloginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294896218632-vsutfdv0ar5epqdu9t63q8bfkhmmqsnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYOEsYslB67gtDwWqO3NHOUeMKtuSaeR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294896218632-vsutfdv0ar5epqdu9t63q8bfkhmmqsnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
